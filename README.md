@@ -9,8 +9,8 @@ This project is a starting point for a Flutter application.
 ---
 ## Output Screenshots
 
-![Sign Up page Image](https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/signup.png)
-![login Image](https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/log.png)
+| <img src="https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/signup.png"  width="300"/>    |     <img src="https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/log.png" width="300"/>  |
+
 
 ---
 
