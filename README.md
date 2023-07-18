@@ -6,6 +6,18 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
+---
+## Output Screenshots
+
+| <img src="https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/signup.png"  width="300"/>    |     <img src="https://github.com/Tanya-Nagpal/loginpage/blob/master/android/Output%20Screenshots/log.png" width="300"/>  |
+
+
+---
+
+If you found this project useful, then please consider giving it a ⭐ on Github and sharing it with your friends via social media.
+
+---
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
